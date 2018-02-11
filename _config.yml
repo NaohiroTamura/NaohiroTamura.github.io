@@ -1,5 +1,5 @@
 theme: jekyll-theme-cayman
-title: Programming for Fun
+title: Programming for Fun -> Log
 description: Tips for Functional and Logic Programming
 permalink: /blog/:year/:month/:day/:title
 github:

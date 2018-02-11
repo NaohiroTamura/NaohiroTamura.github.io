@@ -1,8 +1,14 @@
 # Contents
 
+- [Projects](#Projects)
 - [Languages](#Languages)
 - [Books](#Books)
 - [Blog](./blog)
+
+## Projects
+
+- [FaaS Shell](faasshell/)
+- [OpenWhisk Runtime for Prolog](openwhisk-runtime-prolog/)
 
 ## Languages
 

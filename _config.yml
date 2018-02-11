@@ -1,6 +1,6 @@
 theme: jekyll-theme-cayman
 title: Programming for Fun
-description: Tips for Functional and Logical Programming Language
+description: Tips for Functional and Logic Programming
 permalink: /blog/:year/:month/:day/:title
 github:
   is_project_page: true

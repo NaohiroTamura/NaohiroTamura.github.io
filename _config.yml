@@ -2,3 +2,6 @@ theme: jekyll-theme-cayman
 title: Programming for Fun
 description: Tips for Functional and Logical Programming Language
 permalink: /blog/:year/:month/:day/:title
+github:
+  is_project_page: true
+  repository_url: https://github.com/NaohiroTamura

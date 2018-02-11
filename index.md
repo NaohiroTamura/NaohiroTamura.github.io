@@ -15,8 +15,10 @@
   - [SWI Prolog](http://www.swi-prolog.org/pldoc/doc_for?object=root)
   - [ECLiPSe](http://eclipseclp.org/doc/)
   - [GNU Prolog](http://www.gprolog.org/manual/html_node/index.html)
-  
+- [Elisp](https://www.gnu.org/software/emacs/manual/html_node/elisp/index.html)
+
 ## Books
 
 - [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sicp/full-text/book/book.html)
 - [The Reasoned Schemer](https://mitpress.mit.edu/books/reasoned-schemer)
+- and many

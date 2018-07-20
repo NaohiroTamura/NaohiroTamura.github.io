@@ -3,5 +3,7 @@ title: Programming for Fun -> Log
 description: Tips for Functional and Logic Programming
 permalink: /blog/:year/:month/:day/:title
 github:
-  is_project_page: true
+  is_project_page: false
   repository_url: https://github.com/NaohiroTamura
+show_downloads: false
+google_analytics: UA-122624096-1

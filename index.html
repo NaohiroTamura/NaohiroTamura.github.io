@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <script type="text/javascript">
+      var languages = {
+        "en":    "en",
+        "ja":    "ja"
+      };
+      
+      var code = ( window.navigator.language ||
+                   window.navigator.userLanguage ||
+                   "en" ).substr(0,2);
+
+      var language = languages[code];
+      if (!language) { language = "en"; }
+      
+      document.location = "/" + language + "/";
+    </script>
+    <noscript>
+      <meta http-equiv="refresh" content="0; url=/en/">
+    </noscript>
+  </head>
+  <body>
+    <p><a href="/en/">Click here</a> to be redirected.</p>
+  </body>
+</html>
